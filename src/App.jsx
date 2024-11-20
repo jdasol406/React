@@ -8,8 +8,8 @@ function App() {
   return (
     <>
       {/* <Survey /> */}
-      {/* <Rechart /> */}
-      <Fetch />
+      <Rechart />
+      {/* <Fetch /> */}
     </>
   )
 }
